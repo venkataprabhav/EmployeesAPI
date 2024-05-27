@@ -1,5 +1,5 @@
 # EmployeesAPI
-This project is a web API built with ASP.NET Core and Angular that allows users to manage a list of employees. Users can view a list of employees, add new employees, edit existing employee information, and delete employees from the list - perform CRUD (Create, Read, Update, Delete) operations on employee data.
+This project is a web API built with ASP.NET Core and Angular that allows users to manage a list of employees. Users can view a list of employees, add new employees, edit existing employee information, and delete employees from the list - perform CRUD (Create, Read, Update, Delete) operations on employee data. The project follows the MVC (Model-View-Controller) architectural pattern.
 
 ## Features
 
